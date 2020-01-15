@@ -1,0 +1,2 @@
+# powerbi
+course powerbi
